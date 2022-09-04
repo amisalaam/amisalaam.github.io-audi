@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+}
+li{
+    list-style-type: none;}
+a{
+    text-decoration: none;}
+    
+
+.navigationbar{
+
+    background-color: #003568;
+    height: 95px;
+ 
+}
+
+.navigationUL{
+    display: flex;
+
+}
+.logoimg{
+    width: 60px;
+    transition: transform 0.2s;
+    margin-top: 10px;
+}
+.logoimg:hover{
+    transform: rotate(360deg);
+}
+.navigationLI{
+    padding-left: 47px;
+    margin-top: 25px;
+}
+.navigationA{
+    color: white;
+}
+.buyproductN{
+    float: right;
+    margin-top: -43px;
+    margin-right: 64px;
+    
+}
+.buyproductsA{
+    color: white;
+    border: 2px solid white;
+    padding: 7px;
+    border-radius: 20px;
+    animation-name: buyproducts;
+    animation-duration: 2s
+
+}
+.buyproductsA:hover{
+    background-color: white;
+    color:  #003568;
+}
+.main1{
+    background-image: linear-gradient(to right,#477dda ,#021b4d);
+}
+.img1{
+    width: 430px;
+    margin-left: 330px;
+    margin-top: 60px;
+}
+.img1-1{
+    width: 430px;
+    width: 430px;
+    margin-bottom: 279px;
+    margin-left: 100px;
+}
+.smooth{
+    text-align: center;
+    color: white;
+    margin-left: 40%;
+    margin-top: -243px;
+    font-size: 20px;
+}
+.LearnMore{
+    color: white;
+    border: 2px solid white;
+    padding: 7px;
+    border-radius: 20px;
+   
+
+
+}
+.LearnMore:hover{
+    background-color: white;
+    color:  #003568;
+
+}
+.main2{
+    background-color: black;
+    margin-top: 105px;
+    display: flex;
+    height: 635px;
+}
+.zerosugar{
+    height: 160px;
+    width: 510px;
+    margin-top: 151px;
+    margin-left: 324px;
+    margin-bottom: 168px;
+}
+
+.blackpepsi{
+    margin-top: 50px;
+    margin-left: 250px;
+    
+}
+.video1{
+    width: 100%;
+}
+.main3{
+    display: flex;
+    background-image: linear-gradient(to right,#477dda ,#021b4d);
+    margin-top: -4px; 
+}
+.twilh{
+    height: 306px;
+    margin-top: 300px;
+    margin-left: 80px;
+}
+.twil{
+    height: 700px;
+    margin-top: 100px;
+    
+}
+.tpepsi{
+    display: flex;
+    background-color: #0065c3;
+    height: 439px;
+}
+.tpepsiimg{
+    height: 306px;
+    margin-top: 60px;
+    margin-left: 208px;
+
+}
+.allyour{
+    font-size: 40px;
+    color: white;
+    margin-left: 150px;
+    margin-top: 129px;
+}
+.stay{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: #0065c3;
+
+}
+.sociallast{
+    display: flex;
+    margin-left: 100px;
+    position: absolute;
+    
+}
+.sociallast img{
+    width: 260px;
+    transition: transform.6s;
+}
+.sociallast img:hover{
+    transform: rotate(5deg);
+    opacity:0.6;
+    
+    
+}
+.sociali{
+    font-size: 37px;
+    margin-left: 221px;
+    position: relative;
+    margin-top: 222px;
+    color: white;
+}
+.footer{
+    display: flex;
+    background-color: #003568;
+    height: 219px;
+    
+
+}
+.logo2{
+    margin-left: 60px;
+    margin-top: 70px;
+    transition: transform 0.2s;
+}
+.logo2:hover{
+    transform: rotate(360deg);
+}
+.ul1{
+font-size: 18px;
+color: white;
+margin-top: 84px;
+margin-left: 74px;
+
+}
+.ul2{
+    font-size: 18px;
+    color: white;
+    margin-top: 84px;
+    margin-left: 60px;
+    
+    }
+    .ul3{
+        font-size: 18px;
+        color: white;
+        margin-top: 84px;
+        margin-left: 60px;
+        
+        }
+ .social2{
+    
+        font-size: 18px;
+        color: white;
+        margin-top: 84px;
+        margin-left: 60px;
+        
+ }       
+ .socialul{
+    margin-left: 60px;
+
+ }
